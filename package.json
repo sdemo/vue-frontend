@@ -21,8 +21,7 @@
     "vue-router": "^3.0.6",
     "vue-toasted": "^1.1.27",
     "vue-wait": "^1.4.6",
-    "vuetify": "^1.5.14",
-    "mklicense": "^0.1.5"
+    "vuetify": "^1.5.14"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.7.0",
