@@ -1,7 +1,7 @@
 <template>
   <div class="hello">
     <div style="height:7em"></div>
-    <img alt="frog" src="./../assets/swampuplogo-1.png" class="responsive"/>    <div style="height:2em"></div>
+    <img alt="frog" src="./../assets/jfrog-logo.png" class="responsive"/>    <div style="height:2em"></div>
     <h1>{{ hellomsg }}</h1>
   </div>
 </template>
