@@ -25,7 +25,7 @@
         name: 'app',
         data () {
             return {
-                msg: 'Welcome to your SwampUp 2019 App'
+                msg: 'Welcome to your SwampUp 2020 App'
             }
         }
     }
